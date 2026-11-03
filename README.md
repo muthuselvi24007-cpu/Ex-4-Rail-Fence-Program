@@ -113,5 +113,7 @@ scanf("%d", &rails);
 ```
 
 # OUTPUT
+<img width="348" height="226" alt="image" src="https://github.com/user-attachments/assets/cf2622db-0a66-48e7-bd1c-afa2ea1bc4ed" />
 
 # RESULT
+Thus the given program is verified and executed successfully 
